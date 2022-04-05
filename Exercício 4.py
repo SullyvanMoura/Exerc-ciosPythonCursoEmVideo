@@ -1,0 +1,6 @@
+n = input('Digite algo: ')
+print('O tipo primitivo de {} é {}'.format(n,type(n)))
+print('{} só tem números?'.format(n), n.isnumeric())
+print('{} só tem letras?'.format(n), n.isalpha())
+print('{} só tem letras ou números?'.format(n), n.isalnum())
+print('{} só tem espaços?'.format(n), n.isspace())
