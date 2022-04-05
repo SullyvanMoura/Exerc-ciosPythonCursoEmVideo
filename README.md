@@ -1,4 +1,4 @@
-# ExercíciosPythonCursoEmVideo
+# Exercícios Python 3 - Curso Em Video
 
 1) Crie um programa que escreva 'Olá, Mundo!' na tela.
 
